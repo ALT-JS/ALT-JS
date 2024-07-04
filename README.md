@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## ヽ(＊>∇<)ﾉ >Hi there< (ง •̀_•́)ง‼
 <!--
 **ALT-JS/ALT-JS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
