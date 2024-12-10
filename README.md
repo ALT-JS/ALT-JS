@@ -1,4 +1,4 @@
-## ヽ(＊>∇<)ﾉ >Hi there< (ง •̀_•́)ง‼
+## Hi, this is Jason D.
 <!--
 **ALT-JS/ALT-JS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
