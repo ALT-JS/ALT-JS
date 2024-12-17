@@ -1,4 +1,8 @@
 ## Hi, this is Jason D.
+I'm a junior exchange student at UCBerkeley.
+
+My research interests are in 3D Recon and HOI. Recently I've been working on LLM Agents and mechanistic interpretability.
+
 <!--
 **ALT-JS/ALT-JS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
