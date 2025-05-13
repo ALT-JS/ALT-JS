@@ -1,7 +1,7 @@
-## Hi, this is Jason D.
-I'm a junior exchange student at UCBerkeley.
+## Hi, this is Jiashen(Jason) Du
+I'm a junior at ShanghaiTech University, currently exchanging at UCBerkeley.
 
-My research interests are in 3D Recon and HOI. Recently I've been working on LLM Agents and mechanistic interpretability.
+My research interests are in 3D motion Reconstruction and Generation, and my recent works also include LLM Agents, mechanistic interpretability and Virtual Reality development.
 
 <!--
 **ALT-JS/ALT-JS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
