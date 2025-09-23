@@ -1,5 +1,5 @@
 ## Hi, this is Jiashen(Jason) Du
-I'm a junior at ShanghaiTech University, currently exchanging at UCBerkeley.
+I'm a senior at ShanghaiTech University.
 
 My research interests are in 3D motion Reconstruction and Generation, and my recent works also include LLM Agents, mechanistic interpretability and Virtual Reality development.
 
