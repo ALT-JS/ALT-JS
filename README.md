@@ -1,7 +1,7 @@
 ## Hi, this is Jiashen(Jason) Du
-I'm a senior at ShanghaiTech University.
+I'm a senior at ShanghaiTech University. My research interests are in 3D motion Reconstruction and Generation, and my recent works also include LLM Agents, mechanistic interpretability, and Virtual Reality development.
 
-My research interests are in 3D motion Reconstruction and Generation, and my recent works also include LLM Agents, mechanistic interpretability and Virtual Reality development.
+Incoming M.S. in Software Engineering at Carnegie Mellon University, Fall 2026
 
 <!--
 **ALT-JS/ALT-JS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
